@@ -1,6 +1,6 @@
 # Salut, moi c'est Armand !
 
- **Étudiant en 3ème année de BUT Informatique à l'IUT de CALAIS en parcours réalisations d'applications : conception, développement et validation** | À la recherche d'une **Stage** de 14-16 semaines dans le domaine du développement.
+ **Étudiant en 3ème année de BUT Informatique à l'IUT de CALAIS en parcours réalisations d'applications : conception, développement et validation** | À la recherche d'un **Stage** de 14-16 semaines dans le domaine du développement.
 
 > **Note :** Suite à une suspension technique de mon ancien compte GitHub, ce profil est tout neuf ! J'y rapatrie progressivement mes projets.
 
