@@ -18,7 +18,7 @@
 ### Mes Projets
 
 #### Projets Personnels
-*   **[Application de Révision](https://github.com/armandddev/Application_Revision)**
+*   **[Application de Révision](https://github.com/armandddev/Application_for_learning)**
     *   **Description :** Logiciel desktop dédié à l'apprentissage et aux révisions.
     *   **Stack :** Python & interface graphique avec **PyQt6**.
 
