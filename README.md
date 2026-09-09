@@ -29,7 +29,7 @@
     *   **Focus :** Gestion propre des branches Git avec des tickets.
 
 #### Gros Projets Intensifs (SAE - 1 semaine)
-*   **[Application for Learning](https://github.com/armandddev/Application_for_learning)**
+*   **[Jeu du Pendu en Multijoueur](https://github.com/armandddev/JeuxPendu-Client-Serveur-)**
     *   **Description :** Projet réseau lourd réalisé en équipe sur une semaine pour comprendre les flux de données.
     *   **Stack :** Programmation réseau et architecture Client-Serveur.
     *   **Focus :** Implémentation complète de **Sockets** en **C**.
