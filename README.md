@@ -2,14 +2,13 @@
 
  **Étudiant en 3ème année de BUT Informatique à l'IUT de CALAIS en parcours réalisations d'applications : conception, développement et validation** | À la recherche d'un **Stage** de 14-16 semaines dans le domaine du développement.
 
-> **Note :** Suite à une suspension technique de mon ancien compte GitHub, ce profil est tout neuf ! J'y rapatrie progressivement mes projets.
-
 ### Compétences Techniques
 
 | Catégorie | Technologies maîtrisées |
 | :--- | :--- |
 | **Frontend** | VueJS, HTML5 / CSS3 |
-| **Backend & Scripting** | NodeJS (TypeScript), PHP (Symfony), Python (PyQt6), Java (JavaFX), C++ |
+| **Backend & Scripting** | NodeJS (TypeScript), PHP (Symfony), Python, Java, C++, F# |
+| **Bibliothèques** | Zod, PrimeVue, PyQt6, Prisma |
 | **Base de données** | PostgreSQL |
 | **DevOps & Outils** | Docker, Git / GitHub |
 
