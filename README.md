@@ -32,6 +32,10 @@
     *   **Description :** Projet réseau lourd réalisé en équipe sur une semaine pour comprendre les flux de données.
     *   **Stack :** Programmation réseau et architecture Client-Serveur.
     *   **Focus :** Implémentation complète de **Sockets** en **C**.
+*   **[Doc2Quiz — Application web de génération automatique de QCM](https://github.com/armandddev/11_Doc2Quiz/)**
+    * Conception et développement d'une application web de génération automatique de QCM à partir de documents PDF et Markdown.
+    * Intégration d'un LLM local pour la segmentation thématique des contenus et la génération de questions avec contraintes anti-verbatim.
+    * Mise en place d'un pipeline complet de traitement, de structuration et de transformation de documents.
 
 ---
 
