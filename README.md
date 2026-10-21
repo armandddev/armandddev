@@ -1,4 +1,4 @@
-# Salut, moi c'est Armand !
+# Armand Cuvelier | Développeur Software & Web
 
  **Étudiant en 3ème année de BUT Informatique à l'IUT de CALAIS en parcours réalisations d'applications : conception, développement et validation** | À la recherche d'un **Stage** de 14-16 semaines dans le domaine du développement.
 
